@@ -8,4 +8,4 @@ Separar todos os objetivos do projeto
 	  
 	4 - Links dos layouts possíveis: 
 	
-	5 - Verificar necessidade de servidor próprio [ ] 				(Talvez não seja necessário, tentativa de utilizar 		apenas local) 	
+	5 - Verificar necessidade de servidor próprio [ ] 			(Talvez não seja necessário, tentativa de utilizar apenas local) 	
