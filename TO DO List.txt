@@ -2,11 +2,15 @@ Separar todos os objetivos do projeto
 	1 - Elencar cada layout/página necessária [ ] 	
 		Página(s):
 		Descrição:  
-	2 - Link  e organização de onde estão os textos [ ]
+	2 - Link e organização de onde estão os textos [ ]
 	
 	3 - Arquivos dos vídeos/ Criar pasta [ ]  
 	  
 	4 - Links dos layouts possíveis: 
-	
-	5 - Verificar necessidade de servidor próprio [ ] 			(Talvez não seja necessário, tentativa de utilizar apenas local) 	
+		https://www.free-css.com/assets/files/free-css-templates/preview/page183/tessellate/
+		https://templated.co/p/7303153616677877
+		https://www.myresponsee.com/eleganter/		
+		https://colorlib.com/demo?theme=boxus
+		https://colorlib.com/demo?theme=glint	
+	5 - Verificar necessidade de servidor próprio [x] 			(Talvez não seja necessário, tentativa de utilizar apenas local) 	
 	6 - Verficar uso do GitHub pages. 
