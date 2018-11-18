@@ -3653,6 +3653,68 @@ footer .row {
 
 #myImg5:hover {opacity: 0.7;}
 
+
+#myImg6 {
+    width: 100%;
+    height: auto;
+    border-radius: 500px;
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+#myImg6:hover {opacity: 0.7;}
+
+
+#myImg7 {
+    width: 100%;
+    height: auto;
+    border-radius: 500px;
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+#myImg7:hover {opacity: 0.7;}
+
+#myImg8 {
+    width: 100%;
+    height: auto;
+    border-radius: 500px;
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+#myImg8:hover {opacity: 0.7;}
+
+#myImg9 {
+    width: 100%;
+    height: auto;
+    border-radius: 500px;
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+#myImg9:hover {opacity: 0.7;}
+
+#myImg10 {
+    width: 100%;
+    height: auto;
+    border-radius: 500px;
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+#myImg10:hover {opacity: 0.7;}
+
+#myImg11 {
+    width: 100%;
+    height: auto;
+    border-radius: 500px;
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+#myImg11:hover {opacity: 0.7;}
+
 /* The Modal (background) */
 .modal {
     display: none; /* Hidden by default */
@@ -3802,9 +3864,141 @@ footer .row {
     cursor: pointer;
 }
 
+/* The Close Button  3*/
+.close6 {
+    float: right;
+    top: 15px;
+    right: 35px;
+    color: #f1f1f1;
+    font-size: 40px;
+    font-weight: bold;
+    transition: 0.3s;
+}
+
+.close6:hover,
+.close6:focus {
+    color: #bbb;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+/* The Close Button  3*/
+.close7 {
+    float: right;
+    top: 15px;
+    right: 35px;
+    color: #f1f1f1;
+    font-size: 40px;
+    font-weight: bold;
+    transition: 0.3s;
+}
+
+.close7:hover,
+.close7:focus {
+    color: #bbb;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+/* The Close Button  3*/
+.close8 {
+    float: right;
+    top: 15px;
+    right: 35px;
+    color: #f1f1f1;
+    font-size: 40px;
+    font-weight: bold;
+    transition: 0.3s;
+}
+
+.close8:hover,
+.close8:focus {
+    color: #bbb;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+
+/* The Close Button  3*/
+.close9 {
+    float: right;
+    top: 15px;
+    right: 35px;
+    color: #f1f1f1;
+    font-size: 40px;
+    font-weight: bold;
+    transition: 0.3s;
+}
+
+.close9:hover,
+.close9:focus {
+    color: #bbb;
+    text-decoration: none;
+    cursor: pointer;
+}
 /* 100% Image Width on Smaller Screens */
 @media only screen and (max-width: 700px){
     .modal-content {
         width: 100%;
     }
+}
+
+
+/* The Close Button  3*/
+.close10 {
+    float: right;
+    top: 15px;
+    right: 35px;
+    color: #f1f1f1;
+    font-size: 40px;
+    font-weight: bold;
+    transition: 0.3s;
+}
+
+.close10:hover,
+.close10:focus {
+    color: #bbb;
+    text-decoration: none;
+    cursor: pointer;
+}
+.close11 {
+    float: right;
+    top: 15px;
+    right: 35px;
+    color: #f1f1f1;
+    font-size: 40px;
+    font-weight: bold;
+    transition: 0.3s;
+}
+
+.close11:hover,
+.close11:focus {
+    color: #bbb;
+    text-decoration: none;
+    cursor: pointer;
+}
+/* 100% Image Width on Smaller Screens */
+@media only screen and (max-width: 700px){
+    .modal-content {
+        width: 100%;
+    }
+}
+
+
+.modal6Autor{
+    text-align: justify;
+    text-indent: 50px;
+    margin-top: 60px;
+    margin-bottom: 100px;
+    margin-right: 150px;
+    margin-left: 80px;
+}
+
+.modal7Autor{
+    text-align: justify;
+    text-indent: 50px;
+    margin-top: 60px;
+    margin-bottom: 100px;
+    margin-right: 150px;
+    margin-left: 80px;
 }
