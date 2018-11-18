@@ -4002,3 +4002,17 @@ footer .row {
     margin-right: 150px;
     margin-left: 80px;
 }
+
+.imgHawk{
+  float:left;
+  margin:0 20px 10px 0;
+}
+.videoHawk{
+  float:right;
+  margin:0 0 10px 20px;
+}
+
+.fotoLais{
+  float:right;
+  margin:0 0 10px 20px;
+}
