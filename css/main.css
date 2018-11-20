@@ -3995,10 +3995,11 @@ footer .row {
 }
 
 .modal7Autor{
+    max-width: 100%;
     text-align: justify;
     text-indent: 50px;
-    margin-top: 60px;
-    margin-bottom: 100px;
+    margin-top: 20px;
+    margin-bottom: 20px;
     margin-right: 150px;
     margin-left: 80px;
 }
@@ -4006,15 +4007,20 @@ footer .row {
 .imgHawk{
   float:left;
   margin:0 20px 10px 0;
+  max-width: 100%;
+   height: auto;
 }
 .videoHawk{
   float:right;
-  margin:0 0 10px 20px;
+  max-width: 100%;
+   height: auto;
 }
 
 .fotoLais{
   float:right;
   margin:0 0 10px 20px;
+  max-width: 100%;
+  height: auto;
 }
 
 .fotoFlip{
@@ -4023,5 +4029,11 @@ footer .row {
 }
 .videoLaila{
   float: right;
-  margin:0 20px 10px 0;
+  max-width: 100%;
+  height: auto;
+}
+
+.videoResponsive{
+  max-width: 100%;
+    height: auto;
 }
