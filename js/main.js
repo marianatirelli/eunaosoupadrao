@@ -117,8 +117,6 @@
     span.onclick = function() {
       modal.style.display = "none";
     }
-
-
     
 
     // Get the modal do TEXTO 3

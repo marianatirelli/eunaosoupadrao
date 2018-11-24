@@ -3989,13 +3989,12 @@ footer .row {
     text-align: justify;
     text-indent: 50px;
     margin-top: 60px;
-    margin-bottom: 100px;
+    margin-bottom: 80px;
     margin-right: 150px;
     margin-left: 80px;
 }
 
 .modal7Autor{
-    max-width: 100%;
     text-align: justify;
     text-indent: 50px;
     margin-top: 20px;
@@ -4008,12 +4007,12 @@ footer .row {
   float:left;
   margin:0 20px 10px 0;
   max-width: 100%;
-   height: auto;
+  height: auto;
 }
 .videoHawk{
   float:right;
   max-width: 100%;
-   height: auto;
+  height: auto;
 }
 
 .fotoLais{
